@@ -21,7 +21,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	// ACP module
 	'ACP_PHPBB_IDEAS'			=> 'Ideas',
-	'ACP_PHPBB_IDEAS_SETTINGS'	=> 'Configurações de Ideas',
+	'ACP_PHPBB_IDEAS_SETTINGS'	=> 'Configurações do Ideas',
 
 	// ACP Logs
 	'ACP_PHPBB_IDEAS_SETTINGS_LOG'		=> '<strong>Configurações phpBB Ideas atualizadas</strong>',

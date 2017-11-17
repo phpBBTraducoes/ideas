@@ -20,7 +20,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
     'ADD'                	=> 'Adicionar',
-	'ALL_IDEAS'				=> 'Todas ideias',
+	'ALL_IDEAS'				=> 'Todas idéias',
 	'ALREADY_VOTED'			=> 'Você já votou nesta ideia.',
 
 	'CHANGE_STATUS'			=> 'Alterar o status',
