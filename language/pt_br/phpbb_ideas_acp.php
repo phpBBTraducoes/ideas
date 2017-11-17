@@ -33,5 +33,5 @@ $lang = array_merge($lang, array(
 	'ACP_IDEAS_UTILITIES'			=> 'Utilitários de ideias',
 	'ACP_IDEAS_BASE_URL'			=> 'URL de base do ideias (opcional)',
 	'ACP_IDEAS_BASE_URL_EXPLAIN'	=> 'Digite o URL completo para o Ideas, por exemplo: <samp>http://www.phpbb.com/ideas</samp>. Isso só deve ser definido se seu fórum tiver configurações de roteamento personalizadas que impeçam que o Ideas funcionem conforme o esperado.',
-	'ACP_PHPBB_IDEAS_EXPLAIN'		=> 'Aqui você pode configurar a extensão das Idéias. phpBB Ideas é um centro de idéias para phpBB. Permite aos usuários sugerir e votar ideias que ajudem a melhorar e aprimorar o phpBB
+	'ACP_PHPBB_IDEAS_EXPLAIN'		=> 'Aqui você pode configurar a extensão das Idéias. phpBB Ideas é um centro de idéias para phpBB. Permite aos usuários sugerir e votar ideias que ajudem a melhorar e aprimorar o phpBB',
 ));
