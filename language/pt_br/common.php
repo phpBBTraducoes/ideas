@@ -2,7 +2,7 @@
 /**
  *
  * Ideas extension for the phpBB Forum Software package.
- * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.6] (https://github.com/phpBBTraducoes)
+ * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.7] (https://github.com/phpBBTraducoes)
  * @copyright (c) phpBB Limited <https://www.phpbb.com>
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
@@ -40,7 +40,7 @@ $lang = array_merge($lang, array(
 	'IDEA_LIST'				=> 'Lista de ideias',
 	'IDEA_NUM'				=> 'Idéia #',
 	'IDEA_NOT_FOUND'		=> 'Idéia não encontrada',
-	'IDEAS_TITLE'			=> 'Filipinas - Idéias dos filipinos',
+	'IDEAS_TITLE'			=> 'phpBB Ideas',
 	'IDEAS_NOT_AVAILABLE'	=> 'As idéias não estão disponíveis no momento.',
 	'IMPLEMENTED'           => 'Implementado',
 	'IMPLEMENTED_IDEAS'		=> 'Idéias recentemente implementadas',
@@ -92,7 +92,6 @@ $lang = array_merge($lang, array(
 
 	'UPDATED_VOTE'			=> 'Votação atualizada com sucesso!',
 
-	'VIEW_ALL'				=> 'Ver tudo',
 	'VIEW_IDEA'				=> 'Ver Idéia',
 	'VIEW_IMPLEMENTED'		=> 'Ver todas as idéias implementadas',
 	'VIEW_LATEST'			=> 'Veja todas as idéias abertas',

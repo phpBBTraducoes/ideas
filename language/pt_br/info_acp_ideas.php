@@ -2,7 +2,7 @@
 /**
  *
  * Ideas extension for the phpBB Forum Software package.
- * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.6] (https://github.com/phpBBTraducoes)
+ * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.7] (https://github.com/phpBBTraducoes)
  * @copyright (c) phpBB Limited <https://www.phpbb.com>
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
